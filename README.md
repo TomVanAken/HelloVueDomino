@@ -1,4 +1,4 @@
-# VueHelloDomino
+# HelloVueDomino
 
 ## Project setup
 ```
