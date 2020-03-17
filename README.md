@@ -1,4 +1,4 @@
-# s18_stockexchange
+# VueHelloDomino
 
 ## Project setup
 ```
